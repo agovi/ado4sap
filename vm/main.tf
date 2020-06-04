@@ -112,7 +112,7 @@ resource "azurerm_subnet" "subnet" {
 #     os_profile {
 #         computer_name  = var.name
 #         admin_username = "sapadmin"
-#         admin_password = "M1crosoft2019"
+#         admin_password = "xxxxxxxxxxx"
 #     }
 
 #     os_profile_linux_config {
